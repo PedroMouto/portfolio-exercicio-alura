@@ -7,11 +7,22 @@ Primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura. Foram realuz
 * Media query para responsividade em dispositivos móveis
 
 
+
+
+
+
+
 ## Linguagens utilizadas:
 
 * HTML
 
 * CSS
+
+
+
+
+
+
 
 
 
