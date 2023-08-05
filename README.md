@@ -1,5 +1,5 @@
 # "Sobre Mim" da aluna Joana
-Primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura. Foram realuzadas as seguintes técnicas para criação do projeto:
+Primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura. Foram realizadas as seguintes técnicas para criação do projeto:
 <br></br>
 * Importação de fontes via Google Fonts
 * Pseudo-classe root para declaração de variáveis globais do CSS
