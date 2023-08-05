@@ -1,7 +1,7 @@
-# portfolio-exercicio-alura
+# "Sobre Mim" da aluna Joana
 Primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura
 
-## Ferramentas utilizadas:
+## Linguagens e técnicas utilizadas:
 
 * HTML
 
