@@ -8,3 +8,5 @@ Primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura
 * CSS
 
 * Flex-box
+
+![Sobre mim da Joana](https://portfolio-exercicio-alura.vercel.app/)
